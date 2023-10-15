@@ -151,7 +151,7 @@ def plot_first_positions():
         plt.ylabel('Y')
         plt.show()
 #######################################################
-plot_first_positions()
+
 
 # Print processing time
 print("Process finished --- %s seconds ---" % (time.time() - start_time))
